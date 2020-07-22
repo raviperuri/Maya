@@ -1,4 +1,4 @@
-
+print("testing file")
 #controlShapeNode change
 #Select newShapeCtrl and then select oldShapeCtrl and run
 ctrl = cmds.ls(sl=1)
