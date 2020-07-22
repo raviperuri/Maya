@@ -1,3 +1,4 @@
+
 #controlShapeNode change
 #Select newShapeCtrl and then select oldShapeCtrl and run
 ctrl = cmds.ls(sl=1)
